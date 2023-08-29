@@ -1,7 +1,3 @@
-# Salesforce Real Time Project
-
-The project aim is to provide real-time knowledge for all the students who have basic knowledge of Salesforce and Looking for a real-time project. This project will also help to those professionals who are in cross-technology and wanted to switch to Salesforce with the help of this project they will gain knowledge and can include into their resume as well.
-
 This project includes the following topics
 
 * Salesforce Admin
@@ -40,6 +36,3 @@ This project includes the following topics
 
 - Salesforce Community - For the project, we are using Customer Community 
 
-> You can the course in Udemy [Click Here](https://www.udemy.com/course/salesforce-development-project/?couponCode=NEWLAUNCH)
-
-### This project will give you confidence and it will be fun learning.
